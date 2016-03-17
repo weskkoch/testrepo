@@ -1,1 +1,1 @@
-this is another file myfile2
+this is another file myfile2 that is now changed
